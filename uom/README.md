@@ -8,6 +8,4 @@ including mappings to a number of units ontologies and systems.
 
 ## Contact
 
-James A. Overton
-Email: [james@overton.ca](mailto:james@overton.ca)
-GitHub: [jamesaoverton](https://github.com/jamesaoverton)
+James A. Overton, [james@overton.ca](mailto:james@overton.ca), GitHub [jamesaoverton](https://github.com/jamesaoverton)
